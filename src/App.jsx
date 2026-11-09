@@ -155,7 +155,7 @@ function ServiceIcon({ type }) {
 }
 
 function App() {
-  const whatsappNumber = "932147152363";
+  const whatsappNumber = "923147152363";
 
   const whatsappLink = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(
     "Hello! I am interested in customized branded water bottles for my business. Please share more details."
